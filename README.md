@@ -30,46 +30,38 @@ Before starting, ensure you have the following installed on your machine:
 ### 🐧 Linux (Ubuntu / Debian / Fedora)
 
 ```bash
-# 1. Clone or navigate to project directory
-cd mental-health-app
 
-# 2. Install Node.js dependencies
+# 1. Install Node.js dependencies
 npm install
 
-# 3. Start development server (Port 3000)
+# 2. Start development server (Port 3000)
 npm run dev
 ```
 
 ### 🍎 macOS (Intel / Apple Silicon)
 
 ```bash
-# 1. Open Terminal and navigate to project folder
-cd mental-health-app
 
-# 2. Install dependencies
+# 1. Install dependencies
 npm install
 
-# 3. Launch Vite dev server
+# 2. Launch Vite dev server
 npm run dev
 ```
 
 ### 🪟 Windows (PowerShell)
 
 ```powershell
-# 1. Open PowerShell and navigate to folder
-cd mental-health-app
 
-# 2. Install dependencies
+# 1. Install dependencies
 npm install
 
-# 3. Run development server
+# 2. Run development server
 npm run dev
 ```
 
 ### 🪟 Windows (Command Prompt - `cmd.exe`)
 
-```cmd
-cd mental-health-app
 npm install
 npm run dev
 ```
