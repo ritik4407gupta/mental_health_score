@@ -1,0 +1,6 @@
+{
+  "name": "Mental Health Predictor & Analytics",
+  "description": "Predict student mental health score based on screen time, sleep, study habits, and stress levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
